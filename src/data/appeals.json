@@ -1,0 +1,48 @@
+{
+  "appeals": [
+    {
+      "player": "Player3",
+      "reason": "Hacking",
+      "banDate": "March 10, 2024",
+      "appealDate": "October 2, 2024 at 11:00 AM",
+      "appealReason": "I was using mods but they did not affect gameplay.",
+      "appealNumber": "2141",
+      "status": "Pending",
+      "reviewedDate": null,
+      "reviewedBy": null
+    },
+    {
+      "player": "Player4",
+      "reason": "Inappropriate Username",
+      "banDate": "June 20, 2024",
+      "appealDate": "October 2, 2024 at 08:15 AM",
+      "appealReason": "I’ve changed my username to comply with the rules.",
+      "appealNumber": "2142",
+      "status": "Denied",
+      "reviewedDate": "October 4, 2024 at 2:26 PM",
+      "reviewedBy": "Admin"
+    },
+    {
+      "player": "Player1",
+      "reason": "Cheating",
+      "banDate": "May 1, 2024",
+      "appealDate": "September 30, 2024 at 10:30 AM",
+      "appealReason": "I believe my ban was unjust because I was not cheating. I was just using in-game mechanics.",
+      "appealNumber": "2139",
+      "status": "Pending",
+      "reviewedDate": null,
+      "reviewedBy": null
+    },
+    {
+      "player": "Player2",
+      "reason": "Offensive Language",
+      "banDate": "April 15, 2024",
+      "appealDate": "October 1, 2024 at 09:45 AM",
+      "appealReason": "The words I said aren't that offensive, in fact they can only be considered light slurs.",
+      "appealNumber": "2140",
+      "status": "Accepted",
+      "reviewedDate": "October 4, 2024 at 2:26 PM",
+      "reviewedBy": "Admin"
+    }
+  ]
+}
